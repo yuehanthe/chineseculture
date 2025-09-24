@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    font-family: "Quintessential", "Songti SC", "Songti TC", "宋体", "Simsun", serif, Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+    font-family: "Quintessential", "Songti SC", "Songti TC", "宋体", "Simsun", serif, Arial, Helvetica, sans-serif;
+    color: #a00;
+    background-color: #fec;
+}
+
+h1 {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 250%;
+}
+
+h2 {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+h3 {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+p {
+    color: #000;
+}
+
+a {
+    color: #e93;
+}
+
+a:hover {
+    color: #a00;
+}
+
+.button {
+    background-color: #a00;
+    color: #fec;
+    border: solid;
+    border-color: #a00;
+    border-radius: 2rem;
+    text-decoration: none;
+    text-align: center;
+    font-size: x-large;
+    padding: 5px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin: 5%;
+}
+
+.button:hover {
+    background-color: #fec;
+    color: #a00;
+}
